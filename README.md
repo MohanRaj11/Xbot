@@ -1,8 +1,5 @@
 # Xbot
-simple network tool with command prompt
 
->> This toolset having the basic commands like ping,tracert etc..
->> And also some login also scripted with source.
->> It can be run with low-hardware windows systems.
->> This source having no harmful code or any virus code.
->> This script's login data is locally available in Document directory of same local user account.
+ -> The primary updation with undeletable source after & before execution.
+ -> And also the windows system's startup is getting very slow with every startup  or booting to windows OS .
+ -> The only one solution to prevent execution is getting start with new windows system.
